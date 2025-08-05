@@ -8,7 +8,7 @@ A simple and efficient ToDo application built using **React.js**. Users can add,
 - 📝 Edit existing tasks
 - ❌ Delete tasks
 - 🔄 Mark tasks as completed / incomplete
-- 💾 Persistent state using React hooks (in-memory)
+- 💾 Persistent state using Context API + Local Storage 
 - 🔥 Real-time UI updates
 
 ## 🛠️ Tech Stack
